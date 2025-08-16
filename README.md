@@ -13,8 +13,7 @@ O projeto foi criado para praticar habilidades de front-end, focando em:
 
 🎮 Como Jogar
 
-1.  Clone o repositório: 
-https://github.com/analuisavier/Jogo-do-numero-secreto.git
+1.  Clone o repositório:  https://github.com/analuisavier/Jogo-do-n-mero-secreto
     
 2.  Navegue até o diretório do projeto:
     cd Jogo-do-numero-secreto
